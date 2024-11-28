@@ -1,0 +1,1 @@
+{ "customer_id": 10004, "loan_application_amount": 22000 }
